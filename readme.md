@@ -13,10 +13,10 @@ O programa foi totalmente desenvolvido utilizando a linguagem de programação P
 
 ## 👨‍💻Execução do programa
 
-## 📋Pré-requisito
+### 📋Pré-requisito
 * Ter o **Python 3** instalado no computador.
   
-## 🧾Passo a passo
+### 🧾Passo a passo
 O usuário do programa deve informar o tipo da sua propiedade, dentre os tipos disponíveis (comercial, casa e apartamento), em seguida, deve adicionar o seu consumo mensal de água em metros cúbicos (m³).
 
 Com esses dados o programa classificará o consumo do usuário em quatro categorias:
