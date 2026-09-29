@@ -3,20 +3,20 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
-## 💧Medidor de consumo de água
+## 💧 Medidor de consumo de água
 
-## 🎯Objetivo
+## 🎯 Objetivo
 O programa desenvolvido tem como objetivo classificar o consumo de água de acordo com o consumo mensal e o tipo da propiedade.
 
-## 💻Linguagem de programação utilizada
+## 💻 Linguagem de programação utilizada
 O programa foi totalmente desenvolvido utilizando a linguagem de programação Python.
 
-## 👨‍💻Execução do programa
+## 👨‍💻 Execução do programa
 
-### 📋Pré-requisito
+### 📋 Pré-requisito
 * Ter o **Python 3** instalado no computador.
   
-### 🧾Passo a passo
+### 🧾 Passo a passo
 O usuário do programa deve informar o tipo da sua propiedade, dentre os tipos disponíveis (comercial, casa e apartamento), em seguida, deve adicionar o seu consumo mensal de água em metros cúbicos (m³).
 
 Com esses dados o programa classificará o consumo do usuário em quatro categorias:
